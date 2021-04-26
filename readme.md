@@ -13,4 +13,4 @@
 
 |Build|Cppcheck|Git-Inspector|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml)|  [![Cppcheck](https://github.com/Ayush1146/Emb_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ayush1146/Emb_C/actions/workflows/cppcheck.yml) | [![Contribution Check - Git Inspector](https://github.com/Ayush1146/Emb_C/actions/workflows/gitint.yml/badge.svg)](https://github.com/Ayush1146/Emb_C/actions/workflows/gitint.yml) |
+|[![Compile-Linux]|  [![Cppcheck](https://github.com/Ayush1146/Emb_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ayush1146/Emb_C/actions/workflows/cppcheck.yml) | [![Contribution Check - Git Inspector](https://github.com/Ayush1146/Emb_C/actions/workflows/gitint.yml/badge.svg)](https://github.com/Ayush1146/Emb_C/actions/workflows/gitint.yml) |
