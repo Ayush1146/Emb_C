@@ -16,4 +16,4 @@ jobs:
     - name: get_avr-gcc
       run: sudo apt-get install gcc-avr binutils-avr avr-libc
     - name: compile
-      run: -C Activity1/make $(CC) -mmcu=atmega328 $(SRC)
+      run: -C Activity1/make all
