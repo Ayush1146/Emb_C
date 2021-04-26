@@ -11,7 +11,7 @@
 
 #### CI and Code Quality
 
-|Build|Cppcheck|Git-Inspector| Codacy |
+|Build|Cppcheck|Git-Inspector|Codacy|
 |:--:|:--:|:--:|:--:|
-|[![Compile-Linux]|  [![Cppcheck](https://github.com/Ayush1146/Emb_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ayush1146/Emb_C/actions/workflows/cppcheck.yml) | [![Contribution Check - Git Inspector](https://github.com/Ayush1146/Emb_C/actions/workflows/gitint.yml/badge.svg)](https://github.com/Ayush1146/Emb_C/actions/workflows/gitint.yml) |
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0b067215ee2c42459c9f42068abb71a9)](https://www.codacy.com/gh/Ayush1146/Emb_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ayush1146/Emb_C&amp;utm_campaign=Badge_Grade) |
+|[![Compile-Linux]|  [![Cppcheck](https://github.com/Ayush1146/Emb_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ayush1146/Emb_C/actions/workflows/cppcheck.yml) | [![Contribution Check - Git Inspector](https://github.com/Ayush1146/Emb_C/actions/workflows/gitint.yml/badge.svg)](https://github.com/Ayush1146/Emb_C/actions/workflows/gitint.yml)|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0b067215ee2c42459c9f42068abb71a9)](https://www.codacy.com/gh/Ayush1146/Emb_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ayush1146/Emb_C&amp;utm_campaign=Badge_Grade)|
